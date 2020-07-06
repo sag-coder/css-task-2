@@ -1,0 +1,172 @@
+
+
+		*{
+			margin: 0px;
+			padding: 0px;
+		}
+
+		
+
+		#nav{
+			background-color: #3C3B3F;
+			height: 60px;
+		}
+
+		#nav h1{
+			color: white;
+			padding:10px;
+			margin-left: 10px;
+		}
+
+		#cover{
+			
+			background-color: #FFEFBA;
+			height: 250px;
+			width: 82%;
+			margin: auto;
+			margin-top: 30px;
+			
+
+		}
+
+		#cover h1{
+			margin-left: 30px;
+			padding: 15px;
+			font-size: 40px;
+		}
+
+		#cover div{
+			border: 1px solid grey;
+			width: 23%;
+			float: left;
+			margin-left: 18.5px;
+			
+		}
+
+		#cover div h2{
+			font-size: 30px;
+			text-decoration: underline;
+			text-align: center;
+			margin-top: 10px;
+		}
+
+
+
+		.box p{
+			font-size: 90px;
+			text-align: right;
+			margin-right: 15px;
+		}
+
+		#container{
+			margin-top: 20px;
+			margin-left: 125px;
+			max-width: 82%;
+			border: 0.5px solid #E2EEE4;
+			padding: 10px;
+			background-color: #FFEFBA;
+		}
+
+		#container h3{
+			font-size: 20px;
+		}
+
+
+		.result{
+			max-width:15%;
+			float: left;
+			height: 100%
+		}
+
+
+		.result h3{
+			margin: 15px;
+			text-align: center;
+			color: #000000;
+		}
+		#inside{
+			min-height: 50px;
+			background-color: #DECBA4;
+		}
+		#evaluate{
+			max-width: 90%;
+			padding: 15px;
+			margin: auto;
+		}
+
+		.table{
+			width: 100%;
+			margin: auto;
+			margin-top: 30px;
+			height: 80%
+		}
+
+		.table tr th{
+			border: 0.5px  solid #DBDBDB;
+			font-size: 23px; 
+		}
+
+		.table tr td{
+			text-align: center;
+			font-size: 18px;
+			padding: 8px;
+			border-bottom: 2px solid #ADA996;
+			border-collapse: collapse;
+		}
+		
+		
+		
+
+		.box{
+			width: 24%;
+			float: left;
+			margin-top: 40px;
+			margin: auto;
+			margin-left: 10px;
+			height: 150px;
+			background-color:#DECBA4;
+
+		}
+
+		
+
+		
+		.table tr td{
+			text-align: center;
+			border-bottom:2px black solid;
+			padding: 15px;
+		}
+
+		#leader{
+			width: 550px;
+			height: 350px;
+			margin-top: 20px;
+			margin-left: 150px;
+			margin-bottom: 50px;
+			float: left;
+			background-color: #DECBA4;
+		}
+
+		#leader h1{
+			padding: 15px;
+		}
+
+		#leader div table{
+			width:85%;
+			margin: auto; 
+		}
+
+		#image{
+			width: 550px;
+			height: 350px;
+			margin-top: 20px;
+			margin-right: 150px;
+			margin-bottom: 50px;
+			float: right;
+			
+		}
+
+		#image img{
+			width: 550px;
+			height: 350px;
+		}
